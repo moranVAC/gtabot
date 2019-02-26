@@ -1,0 +1,170 @@
+{
+	"1": {
+		"ferm": true,
+		"id": 3,
+		"count": 1,
+		"balance": 0,
+		"bitcoin": 150
+	},
+	"7": {
+		"ferm": true,
+		"id": 2,
+		"count": 8,
+		"balance": 0,
+		"bitcoin": 190
+	},
+	"21": {
+		"ferm": true,
+		"id": 1,
+		"count": 6,
+		"balance": 0,
+		"bitcoin": 30
+	},
+	"88": {
+		"ferm": true,
+		"id": 1,
+		"count": 899,
+		"balance": 0,
+		"bitcoin": 4555
+	},
+	"90": {
+		"ferm": true,
+		"id": 1,
+		"count": 5,
+		"balance": 0,
+		"bitcoin": 25
+	},
+	"169": {
+		"ferm": true,
+		"id": 2,
+		"count": 6,
+		"balance": 0,
+		"bitcoin": 90
+	},
+	"206": {
+		"ferm": true,
+		"id": 1,
+		"count": 5,
+		"balance": 0,
+		"bitcoin": 25
+	},
+	"220": {
+		"ferm": true,
+		"id": 1,
+		"count": 6,
+		"balance": 0,
+		"bitcoin": 30
+	},
+	"224": {
+		"ferm": true,
+		"id": 3,
+		"count": 1,
+		"balance": 0,
+		"bitcoin": 50
+	},
+	"287": {
+		"ferm": true,
+		"id": 1,
+		"count": 910,
+		"balance": 0,
+		"bitcoin": 4550
+	},
+	"322": {
+		"ferm": true,
+		"id": 1,
+		"count": 3,
+		"balance": 0,
+		"bitcoin": 15
+	},
+	"363": {
+		"ferm": true,
+		"id": 3,
+		"count": 13,
+		"balance": 0,
+		"bitcoin": 650
+	},
+	"380": {
+		"ferm": true,
+		"id": 3,
+		"count": 1801,
+		"balance": 0,
+		"bitcoin": 90050
+	},
+	"428": {
+		"ferm": true,
+		"id": 2,
+		"count": 15,
+		"balance": 0,
+		"bitcoin": 225
+	},
+	"619": {
+		"ferm": true,
+		"id": 1,
+		"count": 2,
+		"balance": 0,
+		"bitcoin": 10
+	},
+	"732": {
+		"ferm": true,
+		"id": 1,
+		"count": 49,
+		"balance": 0,
+		"bitcoin": 275
+	},
+	"761": {
+		"ferm": true,
+		"id": 1,
+		"count": 1,
+		"balance": 0,
+		"bitcoin": 15
+	},
+	"766": {
+		"ferm": true,
+		"id": 1,
+		"count": 41,
+		"balance": 0,
+		"bitcoin": 205
+	},
+	"1089": {
+		"ferm": true,
+		"id": 1,
+		"count": 1,
+		"balance": 0,
+		"bitcoin": 5
+	},
+	"1649": {
+		"ferm": true,
+		"id": 1,
+		"count": 1,
+		"balance": 0,
+		"bitcoin": 5
+	},
+	"1653": {
+		"ferm": true,
+		"id": 2,
+		"count": 69,
+		"balance": 0,
+		"bitcoin": 1035
+	},
+	"1678": {
+		"ferm": true,
+		"id": 1,
+		"count": 56,
+		"balance": 0,
+		"bitcoin": 280
+	},
+	"1679": {
+		"ferm": true,
+		"id": 1,
+		"count": 39,
+		"balance": 0,
+		"bitcoin": 195
+	},
+	"1692": {
+		"ferm": true,
+		"id": 1,
+		"count": 3,
+		"balance": 0,
+		"bitcoin": 15
+	}
+}
